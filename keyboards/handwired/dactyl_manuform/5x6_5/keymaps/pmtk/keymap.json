@@ -67,7 +67,7 @@
 
             "LT(4,KC_ENT)",
             "KC_SPC",
-            "LT(2,KC_BSPC)",
+            "KC_BSPC",
             "LALT_T(KC_RALT)",
             "KC_RGUI",
 
@@ -138,7 +138,7 @@
 
             "LT(4,KC_ENT)",
             "KC_SPC",
-            "LT(2,KC_BSPC)",
+            "KC_BSPC",
             "LALT_T(KC_RALT)",
             "KC_RGUI",
 
