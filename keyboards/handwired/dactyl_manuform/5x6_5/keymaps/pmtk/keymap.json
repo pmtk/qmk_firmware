@@ -71,7 +71,7 @@
             "LALT_T(KC_RALT)",
             "KC_RGUI",
 
-            "LCTL_T(KC_LBRC)",
+            "LALT_T(KC_LBRC)",
             "LCTL_T(KC_LBRC)",
 
             "LT(4,KC_ENT)",
@@ -142,7 +142,7 @@
             "LALT_T(KC_RALT)",
             "KC_RGUI",
 
-            "LCTL_T(KC_LBRC)",
+            "LALT_T(KC_LBRC)",
             "LCTL_T(KC_LBRC)",
 
             "LT(4,KC_ENT)",
